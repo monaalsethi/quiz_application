@@ -1,0 +1,6 @@
+    "@mdi/font": "^5.5.55"
+    "materialize-css": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0"
